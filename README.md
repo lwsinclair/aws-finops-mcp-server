@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ravikiranvm-aws-finops-mcp-server-badge.png)](https://mseep.ai/app/ravikiranvm-aws-finops-mcp-server)
+
 # AWS FinOps MCP Server
 
 [![PyPI version](https://img.shields.io/pypi/v/aws-finops-mcp-server.svg)](https://pypi.org/project/aws-finops-mcp-server/)
